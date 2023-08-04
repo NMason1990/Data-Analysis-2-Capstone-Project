@@ -29,7 +29,7 @@ Then scraping data from TCGPlayer.net that will show more cards, current market 
 
 1. **Clone the Repo**
 
-###In the terminal or gitbash enter :
+In the terminal or gitbash enter :
 
 git clone https://github.com/NMason1990/FaB_TCG_Project.git
 cd FaB_TCG_Project

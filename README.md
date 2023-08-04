@@ -28,17 +28,18 @@ Then scraping data from TCGPlayer.net that will show more cards, current market 
 ### FaB_TCG_Project - Jupyter Notebook Setup
 
 1. **Clone the Repo**
+
 In the terminal or gitbash enter -
 git clone https://github.com/NMason1990/FaB_TCG_Project.git
 cd FaB_TCG_Project
 
 2. **Create and Activate the Conda Environment**
-In the terminal enter - 
-conda env create -f environment.yml
-conda activate fab_tcg
+
+In the terminal enter: conda env create -f environment.yml
+Then : conda activate fab_tcg
 
 3. **Launch Jupyter Notebook**
-In the Terminal Enter- jupyter notebook
+In the Terminal Enter : jupyter notebook
 
 4. **Open the files in your interpreter**
 The .ipynb files for api-data and tcgplayer_scraper are files that show the progress of getting my data sets

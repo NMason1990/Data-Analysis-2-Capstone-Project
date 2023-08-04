@@ -1,5 +1,5 @@
 product,rarity,number,market price,listed median
-Alluring Inducement,Majestic,DTD215,$0.76,—
+Alluring Inducement,Majestic,DTD215,$0.75,—
 Angelic Descent (Blue),Common,DTD034,$0.13,—
 Angelic Descent (Red),Common,DTD032,$0.10,—
 Angelic Descent (Yellow),Common,DTD033,$0.16,—
@@ -22,7 +22,7 @@ Beaming Bravado (Blue),Rare,DTD059,$0.24,—
 Beaming Bravado (Red),Rare,DTD057,$0.10,—
 Beaming Bravado (Yellow),Rare,DTD058,$0.10,—
 Beckoning Light,Majestic,DTD051,$1.28,—
-Bequest the Vast Beyond,Majestic,DTD212,$1.10,—
+Bequest the Vast Beyond,Majestic,DTD212,$1.13,—
 Beseech the Demigon (Blue),Common,DTD189,$0.07,—
 Beseech the Demigon (Red),Common,DTD187,$0.16,—
 Beseech the Demigon (Yellow),Common,DTD188,$0.09,—
@@ -55,7 +55,7 @@ Cleansing Light (Red),Rare,DTD088,$0.17,—
 Cleansing Light (Yellow),Rare,DTD089,$0.15,—
 Cloak of Darkness,Common,DTD166,$0.12,—
 Courage,Common,DTD232,$0.15,—
-Crown of Providence,Legendary,DTD221,$58.74,—
+Crown of Providence,Legendary,DTD221,$58.78,—
 Dabble in Darkness,Majestic,DTD169,$0.32,—
 Dance of Darkness,Common,DTD168,$0.10,—
 Deathly Delight (Blue),Rare,DTD145,$0.14,—
@@ -68,7 +68,7 @@ Decimator Great Axe,Rare,DTD205,$0.39,—
 Defender of Daybreak (Blue),Common,DTD096,$0.05,—
 Defender of Daybreak (Red),Common,DTD094,$0.05,—
 Defender of Daybreak (Yellow),Common,DTD095,$0.05,—
-Diabolic Offering,Majestic,DTD107,$2.36,—
+Diabolic Offering,Majestic,DTD107,$2.32,—
 Diadem of Dreamstate,Legendary,DTD217,$49.14,—
 Dig Up Dinner,Majestic,DTD202,$0.47,—
 Dimenxxional Vortex,Majestic,DTD171,$0.34,—
@@ -82,17 +82,17 @@ Empyrean Rapture (Extended Art),Legendary,DTD004,$132.56,—
 Envelop in Darkness (Blue),Rare,DTD151,$0.16,—
 Envelop in Darkness (Red),Rare,DTD149,$0.13,—
 Envelop in Darkness (Yellow),Rare,DTD150,$0.11,—
-Expendable Limbs,Majestic,DTD110,$0.72,—
+Expendable Limbs,Majestic,DTD110,$0.62,—
 "Figment of Erudition // Suraya, Archangel of Erudition",Majestic,DTD005,$6.47,—
 "Figment of Erudition // Suraya, Archangel of Erudition (Marvel)",Marvel,DTD005,$97.76,—
-"Figment of Judgment // Themis, Archangel of Judgment",Majestic,DTD006,$3.72,—
+"Figment of Judgment // Themis, Archangel of Judgment",Majestic,DTD006,$3.75,—
 "Figment of Judgment // Themis, Archangel of Judgment (Marvel)",Marvel,DTD006,$74.61,—
 "Figment of Protection // Aegis, Archangel of Protection",Majestic,DTD007,$6.69,—
 "Figment of Protection // Aegis, Archangel of Protection (Marvel)",Marvel,DTD007,$123.23,—
-"Figment of Ravages // Sekem, Archangel of Ravages",Majestic,DTD008,$3.51,—
+"Figment of Ravages // Sekem, Archangel of Ravages",Majestic,DTD008,$3.47,—
 "Figment of Ravages // Sekem, Archangel of Ravages (Marvel)",Marvel,DTD008,$86.07,—
-"Figment of Rebirth // Avalon, Archangel of Rebirth",Majestic,DTD009,$5.56,—
-"Figment of Rebirth // Avalon, Archangel of Rebirth (Marvel)",Marvel,DTD009,$104.40,—
+"Figment of Rebirth // Avalon, Archangel of Rebirth",Majestic,DTD009,$5.48,—
+"Figment of Rebirth // Avalon, Archangel of Rebirth (Marvel)",Marvel,DTD009,$105.38,—
 "Figment of Tenacity // Metis, Archangel of Tenacity",Majestic,DTD010,$3.59,—
 "Figment of Tenacity // Metis, Archangel of Tenacity (Marvel)",Marvel,DTD010,$62.31,—
 "Figment of Triumph // Victoria, Archangel of Triumph",Majestic,DTD011,$6.98,—
@@ -117,9 +117,9 @@ Grimoire of the Haunt,Majestic,DTD136,$2.49,—
 Hack to Reality,Majestic,DTD229,$1.51,—
 Hell Hammer,Rare,DTD105,$0.21,—
 Herald of Judgment,Rare,DTD013,$0.77,—
-Herald of Protection (Blue),Rare,DTD016,$0.59,—
+Herald of Protection (Blue),Rare,DTD016,$0.60,—
 Herald of Protection (Red),Rare,DTD014,$0.79,—
-Herald of Protection (Yellow),Rare,DTD015,$0.76,—
+Herald of Protection (Yellow),Rare,DTD015,$0.75,—
 Herald of Ravages (Blue),Rare,DTD019,$0.69,—
 Herald of Ravages (Red),Rare,DTD017,$0.29,—
 Herald of Ravages (Yellow),Rare,DTD018,$0.35,—
@@ -127,11 +127,11 @@ Herald of Rebirth (Blue),Rare,DTD022,$0.72,—
 Herald of Rebirth (Red),Rare,DTD020,$0.58,—
 Herald of Rebirth (Yellow),Rare,DTD021,$0.56,—
 Herald of Tenacity (Blue),Rare,DTD025,$0.73,—
-Herald of Tenacity (Red),Rare,DTD023,$0.41,—
+Herald of Tenacity (Red),Rare,DTD023,$0.42,—
 Herald of Tenacity (Yellow),Rare,DTD024,$0.32,—
 Herald of Triumph (Blue),Rare,DTD028,$1.46,—
 Herald of Triumph (Red),Rare,DTD026,$0.85,—
-Herald of Triumph (Yellow),Rare,DTD027,$0.57,—
+Herald of Triumph (Yellow),Rare,DTD027,$0.56,—
 Hold the Line,Majestic,DTD228,$3.01,—
 Hungering Demigon (Blue),Rare,DTD174,$0.14,—
 Hungering Demigon (Red),Rare,DTD172,$0.13,—
@@ -148,14 +148,14 @@ Light of Sol,Fabled,DTD000,$265.82,—
 Light the Way (Blue),Common,DTD068,$0.16,—
 Light the Way (Red),Common,DTD066,$0.15,—
 Light the Way (Yellow),Common,DTD067,$0.15,—
-Lost in Thought,Majestic,DTD219,$8.57,—
+Lost in Thought,Majestic,DTD219,$8.59,—
 Lumina Lance,Majestic,DTD080,$1.93,—
 "Luminaris, Celestial Fury",Rare,DTD003,$0.27,—
 Mischievous Meeps,Majestic,DTD227,$6.88,—
 Morlock Hill,Majestic,DTD209,$0.50,—
 "Nasreth, the Soul Harrower",Common,DTD193,$0.11,—
 "Nasreth, the Soul Harrower (Marvel)",Marvel,DTD193-CF,$50.48,—
-Northern Winds,Majestic,DTD197,$0.41,—
+Northern Winds,Majestic,DTD197,$0.38,—
 Numbskull,Majestic,DTD201,$0.64,—
 Oblivion,Majestic,DTD142,$4.15,—
 Poison the Well,Majestic,DTD231,$0.58,—
@@ -175,7 +175,7 @@ Ram Raider (Blue),Rare,DTD114,$0.10,—
 Ram Raider (Red),Rare,DTD112,$0.16,—
 Ram Raider (Yellow),Rare,DTD113,$0.18,—
 Reality Refractor,Rare,DTD216,$0.37,—
-Requiem for the Damned,Majestic,DTD141,$1.87,—
+Requiem for the Damned,Majestic,DTD141,$1.83,—
 Resounding Courage (Blue),Common,DTD071,$0.17,—
 Resounding Courage (Red),Common,DTD069,$0.19,—
 Resounding Courage (Yellow),Common,DTD070,$0.16,—
@@ -192,9 +192,9 @@ Searing Ray (Red),Common,DTD097,$0.10,—
 Searing Ray (Yellow),Common,DTD098,$0.13,—
 Seismic Surge,Common,DTD204,$0.06,—
 "Ser Boltyn, Breaker of Dawn",Common,DTD044,$0.23,—
-Shaden Death Hydra,Majestic,DTD108,$0.86,—
-Shaden Scream (Blue),Rare,DTD120,$0.15,—
-Shaden Scream (Red),Rare,DTD118,$0.22,—
+Shaden Death Hydra,Majestic,DTD108,$0.84,—
+Shaden Scream (Blue),Rare,DTD120,$0.14,—
+Shaden Scream (Red),Rare,DTD118,$0.21,—
 Shaden Scream (Yellow),Rare,DTD119,$0.13,—
 Shaden Swing (Blue),Rare,DTD126,$0.08,—
 Shaden Swing (Red),Rare,DTD124,$0.12,—
@@ -211,9 +211,9 @@ Soulbond Resolve,Legendary,DTD047,$42.72,—
 Spectral Shield,Common,DTD220,$0.06,—
 Spellbane Aegis,Common,DTD235,$0.14,—
 Spirit of War,Majestic,DTD052,$1.67,—
-Spoiled Skull,Majestic,DTD106,$2.80,—
+Spoiled Skull,Majestic,DTD106,$2.74,—
 Spoiled Skull (Extended Art),Majestic,DTD106,$22.04,—
-Star Struck,Majestic,DTD203,$10.75,—
+Star Struck,Majestic,DTD203,$10.99,—
 Tear Through the Portal (Blue),Common,DTD192,$0.07,—
 Tear Through the Portal (Red),Common,DTD190,$0.15,—
 Tear Through the Portal (Yellow),Common,DTD191,$0.08,—
@@ -237,11 +237,11 @@ Vile Inquisition (Blue),Rare,DTD180,$0.20,—
 Vile Inquisition (Red),Rare,DTD178,$0.13,—
 Vile Inquisition (Yellow),Rare,DTD179,$0.14,—
 Vynnset,Rare,DTD134,$0.21,—
-"Vynnset, Iron Maiden",Majestic,DTD133,$2.93,—
+"Vynnset, Iron Maiden",Majestic,DTD133,$2.90,—
 Wall Breaker (Blue),Rare,DTD117,$0.17,—
 Wall Breaker (Red),Rare,DTD115,$0.16,—
 Wall Breaker (Yellow),Rare,DTD116,$0.23,—
-Warmonger's Diplomacy,Majestic,DTD230,$40.26,—
+Warmonger's Diplomacy,Majestic,DTD230,$40.18,—
 Wartune Herald (Blue),Rare,DTD031,$0.83,—
 Wartune Herald (Red),Rare,DTD029,$1.07,—
 Wartune Herald (Yellow),Rare,DTD030,$0.56,—
@@ -423,7 +423,7 @@ Unmovable (Blue),Common,UZU027,$0.24,—
 Uzuri,Common,UZU001,$0.75,—
 Wither (Blue),Common,UZU025,—,—
 Wither (Yellow),Common,UZU020,—,—
-Amnesia,Majestic,OUT183,$3.40,—
+Amnesia,Majestic,OUT183,$3.39,—
 Amplifying Arrow,Majestic,OUT100,$0.58,—
 "Arakni, Solitary Confinement",Token,OUT003,$0.19,—
 "Arakni, Solitary Confinement // Uzuri",Token,OUT003 // OUT002,$0.10,—
@@ -461,8 +461,8 @@ Brush Off (Yellow),Common,OUT229,$0.11,—
 Burdens of the Past,Majestic,OUT187,$0.88,—
 Buzzsaw Trap,Majestic,OUT102,$2.59,—
 Codex of Bloodrot,Majestic,OUT159,$4.24,—
-Codex of Bloodrot (Marvel),Marvel,OUT159,$135.35,—
-Codex of Frailty,Majestic,OUT160,$43.00,—
+Codex of Bloodrot (Marvel),Marvel,OUT159,$132.23,—
+Codex of Frailty,Majestic,OUT160,$42.96,—
 Codex of Frailty (Marvel),Marvel,OUT160,$307.58,—
 Codex of Inertia,Majestic,OUT161,$2.87,—
 Codex of Inertia (Marvel),Marvel,OUT161,$141.67,—
@@ -770,7 +770,7 @@ Flex Claws (Yellow),Rare,DYN051,$0.11,—
 Galvanic Bender,Rare,DYN089,$0.15,—
 Gold,Common,DYN243,$0.23,—
 Hanabi Blaster,Majestic,DYN088,$1.51,—
-Hanabi Blaster (Marvel),Marvel,DYN088,$85.29,—
+Hanabi Blaster (Marvel),Marvel,DYN088,$84.81,—
 Heat Seeker,Majestic,DYN153,$1.37,—
 Hemorrhage Bore (Blue),Common,DYN164,$0.09,—
 Hemorrhage Bore (Red),Common,DYN162,$0.14,—
@@ -869,7 +869,7 @@ Runic Reaping (Yellow),Common,DYN186,$0.08,—
 Sack the Shifty (Blue),Common,DYN144,$0.09,—
 Sack the Shifty (Red),Common,DYN142,$0.09,—
 Sack the Shifty (Yellow),Common,DYN143,$0.08,—
-Sandscour Greatbow,Majestic,DYN151,$1.30,—
+Sandscour Greatbow,Majestic,DYN151,$1.24,—
 Sandscour Greatbow (Marvel),Marvel,DYN151,$128.45,—
 Sap (Blue),Common,DYN208,$0.09,—
 Sap (Red),Common,DYN206,$0.10,—
@@ -891,7 +891,7 @@ Shred (Blue),Rare,DYN132,$0.27,—
 Shred (Red),Rare,DYN130,$0.31,—
 Shred (Yellow),Rare,DYN131,$0.39,—
 Silver,Common,DYN245,$0.14,—
-Skull Crack,Majestic,DYN008,$3.00,—
+Skull Crack,Majestic,DYN008,$3.02,—
 Sky Fire Lanterns (Blue),Common,DYN190,$0.07,—
 Sky Fire Lanterns (Red),Common,DYN188,$0.07,—
 Sky Fire Lanterns (Yellow),Common,DYN189,$0.06,—
@@ -915,7 +915,7 @@ Spider's Bite (115),Rare,DYN115,$0.15,—
 Spider's Bite (116),Rare,DYN116,$0.61,—
 Spirit of Eirina,Legendary,DYN066,$48.46,—
 Steelbraid Buckler,Rare,DYN027,$0.23,—
-Surgent Aethertide,Majestic,DYN192,$0.40,—
+Surgent Aethertide,Majestic,DYN192,$0.39,—
 Surgent Aethertide (Marvel),Marvel,DYN192,$56.23,—
 Surgical Extraction,Majestic,DYN122,$8.22,—
 Swell Tidings,Majestic,DYN195,$1.35,—
@@ -1107,9 +1107,9 @@ Inflame,Common,UPR097,$0.07,—
 Inflame (Extended Art),Common,UPR097,$1.02,—
 Insidious Chill,Majestic,UPR140,$1.21,—
 Invoke Azvolai // Azvolai,Rare,UPR009,$0.81,—
-Invoke Azvolai // Azvolai (Marvel),Marvel,UPR009,$32.11,—
+Invoke Azvolai // Azvolai (Marvel),Marvel,UPR009,$32.32,—
 Invoke Cromai // Cromai,Rare,UPR010,$0.73,—
-Invoke Cromai // Cromai (Marvel),Marvel,UPR010,$22.89,—
+Invoke Cromai // Cromai (Marvel),Marvel,UPR010,$22.87,—
 Invoke Dominia // Dominia,Majestic,UPR008,$3.79,—
 Invoke Dominia // Dominia (Marvel),Marvel,UPR008,$126.01,—
 Invoke Dracona Optimai // Dracona Optimai,Majestic,UPR006,$2.27,—
@@ -1117,19 +1117,19 @@ Invoke Dracona Optimai // Dracona Optimai (Marvel),Marvel,UPR006,$131.09,—
 Invoke Kyloria // Kyloria,Rare,UPR011,$0.83,—
 Invoke Kyloria // Kyloria (Marvel),Marvel,UPR011,$23.48,—
 Invoke Miragai // Miragai,Rare,UPR012,$0.90,—
-Invoke Miragai // Miragai (Marvel),Marvel,UPR012,$33.22,—
+Invoke Miragai // Miragai (Marvel),Marvel,UPR012,$33.07,—
 Invoke Nekria // Nekria,Rare,UPR013,$0.33,—
 Invoke Nekria // Nekria (Marvel),Marvel,UPR013,$16.48,—
 Invoke Ouvia // Ouvia,Rare,UPR014,$0.31,—
 Invoke Ouvia // Ouvia (Marvel),Marvel,UPR014,$17.60,—
 Invoke Themai // Themai,Rare,UPR015,$0.31,—
-Invoke Themai // Themai (Marvel),Marvel,UPR015,$19.25,—
+Invoke Themai // Themai (Marvel),Marvel,UPR015,$19.18,—
 Invoke Tomeltai // Tomeltai,Majestic,UPR007,$2.69,—
 Invoke Tomeltai // Tomeltai (Marvel),Marvel,UPR007,$175.27,—
 Invoke Vynserakai // Vynserakai,Rare,UPR016,$0.43,—
-Invoke Vynserakai // Vynserakai (Marvel),Marvel,UPR016,$17.49,—
+Invoke Vynserakai // Vynserakai (Marvel),Marvel,UPR016,$17.47,—
 Invoke Yendurai // Yendurai,Rare,UPR017,$0.77,—
-Invoke Yendurai // Yendurai (Marvel),Marvel,UPR017,$25.60,—
+Invoke Yendurai // Yendurai (Marvel),Marvel,UPR017,$25.80,—
 Isenhowl Weathervane (Blue),Rare,UPR143,$0.13,—
 Isenhowl Weathervane (Red),Rare,UPR141,$0.11,—
 Isenhowl Weathervane (Yellow),Rare,UPR142,$0.14,—
@@ -1258,7 +1258,7 @@ Dodge,Common,RVD026,$0.21,—
 Driving Blade,Common,DVR017,$0.13,—
 En Garde,Common,DVR009,$0.21,—
 Flock of the Featherwalkers,Common,DVR026,$0.25,—
-Gallantry Gold,Common,DVR005,$0.40,—
+Gallantry Gold,Common,DVR005,$0.37,—
 Glistening Steelblade,Majestic,DVR008,$30.86,—
 Hala Goldenhelm,Majestic,DVR007,$0.38,—
 Hit and Run,Common,DVR021,$0.23,—
@@ -1408,7 +1408,7 @@ Enchanting Melody (Red),Rare,1HP375,$0.21,—
 Enchanting Melody (Yellow),Rare,1HP376,$0.15,—
 Endless Arrow,Majestic,1HP228,$4.97,—
 Energy Potion,Rare,1HP381,$1.31,—
-Enlightened Strike,Majestic,1HP361,$28.00,—
+Enlightened Strike,Majestic,1HP361,$27.94,—
 Fate Foreseen (Blue),Common,1HP407,$0.21,—
 Fate Foreseen (Red),Common,1HP405,$0.57,—
 Fate Foreseen (Yellow),Common,1HP406,$0.16,—
@@ -1423,7 +1423,7 @@ Flock of the Feather Walkers (Yellow),Common,1HP391,—,—
 Flood of Force,Majestic,1HP099,$0.69,—
 Forked Lightning,Majestic,1HP310,$0.50,—
 Fyendal's Spring Tunic,Legendary,1HP341,$200.56,—
-Gambler's Gloves,Majestic,1HP358,$7.71,—
+Gambler's Gloves,Majestic,1HP358,$7.65,—
 Glint the Quicksilver,Majestic,1HP147,$3.51,—
 Goliath Gauntlet,Common,1HP352,$0.20,—
 Gorganian Tome,Majestic,1HP364,$4.41,—
@@ -1465,7 +1465,7 @@ Last Ditch Effort,Majestic,1HP362,$0.32,—
 Leg Tap (Blue),Common,1HP118,$0.13,—
 Leg Tap (Red),Common,1HP116,$0.13,—
 Leg Tap (Yellow),Common,1HP117,$0.11,—
-Lesson in Lava,Majestic,1HP311,$0.98,—
+Lesson in Lava,Majestic,1HP311,$0.93,—
 Life for a Life (Blue),Rare,1HP370,$0.15,—
 Life for a Life (Red),Rare,1HP368,$0.23,—
 Life for a Life (Yellow),Rare,1HP369,$0.13,—
@@ -1520,7 +1520,7 @@ Perch Grapplers,Majestic,1HP227,$8.78,—
 Plasma Barrel Shot,Rare,1HP183,$0.71,—
 Plasma Purifier,Majestic,1HP190,$2.40,—
 Plunder Run (Blue),Rare,1HP380,$0.25,—
-Plunder Run (Red),Rare,1HP378,$0.46,—
+Plunder Run (Red),Rare,1HP378,$0.45,—
 Plunder Run (Yellow),Rare,1HP379,$0.33,—
 Potion of Strength,Rare,1HP382,$0.51,—
 Primeval Bellow (Blue),Common,1HP042,$0.13,—
@@ -1669,7 +1669,7 @@ Take Cover (Yellow),Rare,1HP235,$0.20,—
 "Talishar, the Lost Prince",Rare,1HP367,$0.50,—
 Talismanic Lens,Common,1HP354,$0.29,—
 Tectonic Plating,Legendary,1HP047,$40.07,—
-Teklo Core,Majestic,1HP192,$5.70,—
+Teklo Core,Majestic,1HP192,$5.74,—
 Teklo Foundry Heart,Legendary,1HP185,$90.23,—
 Teklo Plasma Pistol,Common,1HP184,$0.93,—
 Three of a Kind,Majestic,1HP232,$4.63,—
@@ -1757,7 +1757,7 @@ Dreadbore,Majestic,EVR087,$0.66,—
 Drowning Dire (Blue),Common,EVR112,$0.07,—
 Drowning Dire (Red),Common,EVR110,$0.09,—
 Drowning Dire (Yellow),Common,EVR111,$0.08,—
-Earthlore Bounty,Majestic,EVR020,$0.81,—
+Earthlore Bounty,Majestic,EVR020,$0.84,—
 Earthlore Bounty (Extended Art),Majestic,EVR020,$21.75,—
 Emeritus Scolding (Blue),Rare,EVR127,$0.53,—
 Emeritus Scolding (Red),Rare,EVR125,$0.27,—
@@ -1782,7 +1782,7 @@ High Roller (Yellow),Rare,EVR006,$0.10,—
 High Striker (Blue),Rare,EVR166,$0.10,—
 High Striker (Blue) (Extended Art),Rare,EVR166,$0.58,—
 High Striker (Red),Rare,EVR164,$0.10,—
-High Striker (Red) (Extended Art),Rare,EVR164,$0.85,—
+High Striker (Red) (Extended Art),Rare,EVR164,$0.84,—
 High Striker (Yellow),Rare,EVR165,$0.11,—
 High Striker (Yellow) (Extended Art),Rare,EVR165,$0.55,—
 Hundred Winds (Blue),Rare,EVR043,$0.31,—
@@ -1873,7 +1873,7 @@ Seismic Stir (Red),Common,EVR030,$0.08,—
 Seismic Stir (Yellow),Common,EVR031,$0.05,—
 Seismic Surge,Common,EVR036,$0.13,—
 Shatter,Majestic,EVR054,$0.31,—
-Shimmers of Silver,Majestic,EVR140,$4.99,—
+Shimmers of Silver,Majestic,EVR140,$5.11,—
 Shrill of Skullform (Blue),Common,EVR118,$0.15,—
 Shrill of Skullform (Red),Common,EVR116,$0.15,—
 Shrill of Skullform (Yellow),Common,EVR117,$0.10,—
@@ -2138,7 +2138,7 @@ Flash (Red),Rare,ELE177,$0.09,—
 Flash (Yellow),Rare,ELE178,$0.08,—
 Flashfreeze,Majestic,ELE092,$0.23,—
 Flicker Wisp,Majestic,ELE065,$0.20,—
-Force of Nature,Majestic,ELE066,$0.88,—
+Force of Nature,Majestic,ELE066,$0.90,—
 Frazzle (Blue),Common,ELE061,$0.05,—
 Frazzle (Red),Common,ELE059,$0.04,—
 Frazzle (Yellow),Common,ELE060,$0.04,—
@@ -2349,7 +2349,7 @@ Hooves of the Shadowbeast,Common,LEV007,$0.24,—
 Hungering Slaughterbeast (Red),Common,LEV014,$0.23,—
 Hungering Slaughterbeast (Yellow),Common,LEV017,$0.20,—
 Lady Barthimont,Majestic,LEV002,$2.90,—
-Levia,Rare,LEV001,$0.67,—
+Levia,Rare,LEV001,$0.64,—
 Lunartide Plunderer (Yellow),Common,LEV024,$0.23,—
 Rally the Rearguard (Blue),Common,LEV029,—,—
 Rally the Rearguard (Red),Common,LEV028,$0.25,—
@@ -2434,7 +2434,7 @@ Captain's Call (Blue),Rare,MON262,$0.72,—
 Captain's Call (Red),Rare,MON260,$0.50,—
 Captain's Call (Yellow),Rare,MON261,$0.69,—
 Carrion Husk,Legendary,MON187,$254.15,—
-Celestial Cataclysm,Majestic,MON062,$7.12,—
+Celestial Cataclysm,Majestic,MON062,$7.01,—
 "Chane // Chane, Bound by Shadow",Token,MON154 // MON153,$0.17,—
 Chane // Galaxxi Black,Token,MON154 // MON155,$0.09,—
 Chane // Hatchet of Body,Token,MON154 // MON105,$0.04,—
@@ -3218,7 +3218,7 @@ Beast Mode - LGS146,Promo,LGS146,$9.60,—
 Blacktek Whisperers,Promo,FAB110,—,—
 Blade Flash - LGS149,Promo,LGS149,$9.98,—
 "Blasmophet, the Soul Harvester (FAB021)",Promo,FAB021,$87.79,—
-"Blasmophet, the Soul Harvester (FAB041)",Promo,FAB041,$25.25,—
+"Blasmophet, the Soul Harvester (FAB041)",Promo,FAB041,$25.56,—
 Blaze Headlong - FAB089,Promo,FAB089,$57.72,—
 Blessing of Aether (Blue),Promo,LGS118,$0.57,—
 Blessing of Aether (Red),Promo,LGS116,$1.05,—
@@ -3228,7 +3228,7 @@ Blessing of Deliverance (Red) - LGS006,Promo,LGS006,$1.94,—
 Blessing of Deliverance (Red) - LGS023,Promo,LGS023,$3.70,—
 Blessing of Deliverance (Yellow),Promo,LGS024,$4.83,—
 Bloodrot Pox,Promo,FAB133,$24.98,—
-Bloodrot Pox // Frailty,Token,LGS125 // LGS126,$6.20,—
+Bloodrot Pox // Frailty,Token,LGS125 // LGS126,$5.97,—
 Blossom of Spring,Promo,LGS100,$15.31,—
 Boltyn - HER035,Promo,HER035,$32.71,—
 Bone Vizier - FAB106,Promo,FAB106,—,—
@@ -3312,7 +3312,7 @@ Fai,Promo,HER061,$21.40,—
 "Fai, Rising Rebellion - HER058",Promo,HER058,$152.89,—
 "Fai, Rising Rebellion - HER065",Promo,HER065,$114.55,—
 Fate Foreseen (Red) - FAB024,Promo,FAB024,$449.00,—
-Flail of Agony,Promo,LGS156,$16.56,—
+Flail of Agony,Promo,LGS156,$16.48,—
 Flamescale Furnace (Golden) - FAB087,Promo,FAB087,—,—
 Frailty,Promo,FAB134,$15.00,—
 Frostbite - FAB081,Promo,FAB081,—,—
@@ -3357,7 +3357,7 @@ Herald of Rebirth (Yellow) - FAB033,Promo,FAB033,$55.19,—
 Ice Eternal,Promo,LGS110,$1.05,—
 In the Swing (Red),Promo,FAB057,$12.01,—
 Inertia,Promo,FAB135,$18.10,—
-Inertia // Ponder,Token,LGS127 // LGS128,$4.19,—
+Inertia // Ponder,Token,LGS127 // LGS128,$3.99,—
 Invigorate (Blue),Promo,LGS082,$1.94,—
 Invigorate (Red),Promo,LGS080,$4.08,—
 Invigorate (Yellow),Promo,LGS081,$2.31,—
@@ -3499,7 +3499,7 @@ Sic 'Em Shot (Blue),Promo,LGS037,$3.10,—
 Sic 'Em Shot (Red) - LGS014,Promo,LGS014,$1.96,—
 Sic 'Em Shot (Red) - LGS035,Promo,LGS035,$7.44,—
 Sic 'Em Shot (Yellow),Promo,LGS036,$3.40,—
-Silver - FAB056,Promo,FAB056,$4.80,—
+Silver - FAB056,Promo,FAB056,$4.67,—
 Silver Palms (Golden),Promo,FAB077,—,—
 Skullbone Crosswrap (Golden),Promo,FAB009,—,—
 Snapdragon Scalers (Golden),Promo,FAB065,—,—
@@ -3581,7 +3581,7 @@ Wrecking Ball,Promo,LGS101,$0.49,—
 Anothos,Common,BVO003,$3.61,—
 Barraging Brawnhide (Blue),Common,BVO023,$2.32,—
 Blessing of Deliverance (Blue),Rare,BVO021,$1.99,—
-Bravo,Token,BVO002,—,—
+Bravo,Token,BVO002,$3.00,—
 "Bravo, Showstopper",Common,BVO001,$20.00,—
 Buckling Blow (Blue),Common,BVO016,—,—
 Buckling Blow (Red),Common,BVO008,$3.00,—
@@ -3831,7 +3831,7 @@ Fluster Fist (Blue),Rare,WTR088,$1.46,—
 Fluster Fist (Red),Rare,WTR086,$1.85,—
 Fluster Fist (Yellow),Rare,WTR087,$0.75,—
 Forged for War,Super Rare,WTR046,$6.27,—
-Fyendal's Spring Tunic,Legendary,WTR150,$241.03,—
+Fyendal's Spring Tunic,Legendary,WTR150,$240.83,—
 Glint the Quicksilver,Majestic,WTR118,$42.55,—
 Goliath Gauntlet,Common,WTR153,$1.29,—
 Harmonized Kodachi // Katsu,Token,WTR078 // WTR077,$0.95,—

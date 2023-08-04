@@ -35,24 +35,26 @@ cd FaB_TCG_Project
 
 2. **Create and Activate the Conda Environment**
 
-In the terminal enter: conda env create -f environment.yml
-Then : conda activate fab_tcg
+conda env create -f environment.yml
+conda activate FaB_TCG
+
 
 3. **Launch Jupyter Notebook**
-In the Terminal Enter : jupyter notebook
+
+jupyter notebook
+
 
 4. **Open the files in your interpreter**
+
 The .ipynb files for api-data and tcgplayer_scraper are files that show the progress of getting my data sets
 The Merged_Data.ipynb file is the notebook in which I merge, analyze, visualize and interpret my data
 
 5. **Run The Notebooks**
+
 Run the notebook cells in sequential order to see the results. Use the "Run" button or press Shift + Enter to execute each cell, or run all in vscode.
 
 
 
-## Usage
-
-[Provide instructions on how to use your project. Explain the basic usage and any important features or functionalities. Include examples or code snippets if applicable.]
 
 ## Features
 
